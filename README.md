@@ -1,31 +1,31 @@
 # Digital-Literacy
-
 digital-literacy-project/
-│
+
 ├── README.md
+
 ├── report/
 │   └── Project_Report.pdf
-│
+
 ├── task-1-presentation/
 │   └── infographic.png
-│
+
 ├── task-2-portfolio/
 │   ├── github-profile.png
 │   ├── linkedin-profile.png
 │   └── kaggle-profile.png
-│
+
 ├── task-3-platforms/
 │   ├── hackerrank-solution.png
 │   ├── google-form.png
 │   └── responses-sheet.png
-│
+
 ├── task-4-email-etiquette/
-│   ├── email1.pdf
-│   ├── email2.pdf
-│   └── social-media-checklist.txt
-│
+│   ├── email1.txt
+│   ├── email2.txt
+│   └── social-media-checklist.md
+
 ├── task-5-cybercrime/
-│   ├── casestudy.pdf
+│   ├── casestudy.md
 │   └── prevention-checklist.txt
 
 ✅ Task 1: Digital Literacy Infographic
